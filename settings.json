@@ -60,5 +60,21 @@
   "indent_guides": {
     "line_width": 1,
     "active_line_width": 2
+  },
+  {
+    "auto_install_extensions": {
+      "basher": true,
+      "dockerfile": true,
+      "html": true,
+      "oxocarbon": true,
+      "sql": true,
+      "terraform": true,
+      "docker-compose": true,
+      "emmet": true,
+      "nginx": true,
+      "python-refactoring": true,
+      "svelte": true
+    }
   }
+
 }
